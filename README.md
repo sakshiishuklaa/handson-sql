@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/sakshiishuklaa/handson-sql/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/sakshiishuklaa/handson-sql/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/sakshiishuklaa/handson-sql/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/sakshiishuklaa/handson-sql/tree/master/0596-classes-with-at-least-5-students) |
