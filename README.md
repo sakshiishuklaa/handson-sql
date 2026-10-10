@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/sakshiishuklaa/handson-sql/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/sakshiishuklaa/handson-sql/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sakshiishuklaa/handson-sql/tree/master/0619-biggest-single-number) |
+| [1070-product-sales-analysis-iii](https://github.com/sakshiishuklaa/handson-sql/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/sakshiishuklaa/handson-sql/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sakshiishuklaa/handson-sql/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/sakshiishuklaa/handson-sql/tree/master/1174-immediate-food-delivery-ii) |
